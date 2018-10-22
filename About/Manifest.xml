@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>CoC-Factions-ItemsOnly</identifier>
+  <version>1.20.0.0</version>
+  <dependencies>
+    <li>JecsTools</li>
+  </dependencies>
+  <incompatibleWith>
+    <li>CoC-Factions</li>
+  </incompatibleWith>
+  <loadBefore />
+  <loadAfter>
+    <li>HugsLib</li>
+    <li>JecsTools</li>
+  </loadAfter>
+  <manifestUri>https://raw.githubusercontent.com/Rim-Of-Madness-Team/Call-of-Cthulhu---Factions-Items-Only/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Rim-Of-Madness-Team/Call-of-Cthulhu---Factions-Items-Only/releases</downloadUri>
+</Manifest>

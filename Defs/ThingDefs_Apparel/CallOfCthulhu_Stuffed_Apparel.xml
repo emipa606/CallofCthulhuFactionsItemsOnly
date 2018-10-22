@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ThingDefs>
+<Defs>
 
 
 
-	<ThingDef ParentName="CallOfCthulhuApparelMakeableBase">
+	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>ROM_Apparel_CallOfCthulhuShirtTie</defName>
-		<description>During the 20th century, this piece of apparal became highly fashionable for conducting business.
-		</description>
+		<description>During the 20th century, this piece of apparel became highly fashionable for conducting business.</description>
 		<label>shirt and tie</label>
 		<recipeMaker>
 			<researchPrerequisite>ComplexClothing</researchPrerequisite>
@@ -22,11 +21,11 @@
 			<li>Apparel</li>
 		</thingCategories>
 		<statBases>
-			<WorkToMake>15000</WorkToMake>
-      <Mass>0.25</Mass>
-			<ArmorRating_Blunt>0.03</ArmorRating_Blunt>
-			<ArmorRating_Sharp>0.03</ArmorRating_Sharp>
-			<Insulation_Cold>-4</Insulation_Cold>
+		  <WorkToMake>15000</WorkToMake>
+		  <Mass>0.25</Mass>
+		  <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+		  <StuffEffectMultiplierInsulation_Cold>0.26</StuffEffectMultiplierInsulation_Cold>
+		  <StuffEffectMultiplierInsulation_Heat>0.10</StuffEffectMultiplierInsulation_Heat>
 		</statBases>
 		<equippedStatOffsets>
 			<SocialImpact>0.15</SocialImpact>
@@ -39,7 +38,7 @@
 				<li>Shoulders</li>
 				<li>Arms</li>
 			</bodyPartGroups>
-			<worngraphicPath>Apparel/Bodywear_Clothing/ShirtTie/CallOfCthulhu_ShirtTie</worngraphicPath>
+			<wornGraphicPath>Apparel/Bodywear_Clothing/ShirtTie/CallOfCthulhu_ShirtTie</wornGraphicPath>
 			<layers>
 				<li>OnSkin</li>
 			</layers>
@@ -51,11 +50,54 @@
 		<colorGenerator Class="ColorGenerator_StandardApparel" />
 	</ThingDef>
 
+	<ThingDef ParentName="ApparelMakeableBase">
+		<defName>ROM_Apparel_CallOfCthulhuPlaidShirt</defName>
+		<description>During the 20th century, this piece of apparel became popular attire for laborers.</description>
+		<label>plaid shirt</label>
+		<recipeMaker>
+			<researchPrerequisite>ComplexClothing</researchPrerequisite>
+		</recipeMaker>
+		<graphicData>
+			<texPath>Apparel/Bodywear_Clothing/ShirtPlaid/SShirtPlaid</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<costList>
+			<Cloth>40</Cloth>
+		</costList>
+		<thingCategories>
+			<li>Apparel</li>
+		</thingCategories>
+		<statBases>
+		  <WorkToMake>10000</WorkToMake>
+		  <Mass>0.18</Mass>
+		  <StuffEffectMultiplierArmor>0.18</StuffEffectMultiplierArmor>
+		  <StuffEffectMultiplierInsulation_Cold>0.26</StuffEffectMultiplierInsulation_Cold>
+		  <StuffEffectMultiplierInsulation_Heat>0.10</StuffEffectMultiplierInsulation_Heat>
+		</statBases>
 
-  <ThingDef ParentName="CallOfCthulhuHatMakeableBase">
+		<generateCommonality>0.1</generateCommonality>
+		<apparel>
+			<bodyPartGroups>
+				<li>Torso</li>
+				<li>Shoulders</li>
+				<li>Arms</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Apparel/Bodywear_Clothing/ShirtPlaid/SShirtPlaid</wornGraphicPath>
+			<layers>
+				<li>OnSkin</li>
+			</layers>
+			<tags>
+				<li>CallOfCthulhu_Lumberjack</li>
+			</tags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_StandardApparel" />
+	</ThingDef>
+
+
+  <ThingDef ParentName="HatMakeableBase">
     <defName>ROM_Apparel_CallOfCthulhuTopHat</defName>
     <label>top hat</label>
-    <description>Dapper 18th century headwear.</description>
+    <description>An elegant hat which gives the wearer a sophisticated look of importance. Improves social impact.</description>
     <graphicData>
       <texPath>Apparel/Display/ROMTopHat</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -68,10 +110,9 @@
     <statBases>
       <WorkToMake>5000</WorkToMake>
       <Mass>0.25</Mass>
-      <ArmorRating_Blunt>0.022</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.02</ArmorRating_Sharp>
-      <Insulation_Heat>8</Insulation_Heat>
-      <Insulation_Cold>-6</Insulation_Cold>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.10</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.40</StuffEffectMultiplierInsulation_Heat>
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.15</SocialImpact>
@@ -82,7 +123,7 @@
       <bodyPartGroups>
         <li>UpperHead</li>
       </bodyPartGroups>
-      <worngraphicPath>Apparel/Hats/TopHat/ROMTopHat</worngraphicPath>
+      <wornGraphicPath>Apparel/Hats/TopHat/ROMTopHat</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -97,10 +138,10 @@
     <colorGenerator Class="ColorGenerator_StandardApparel" />
   </ThingDef>
 
-  <ThingDef ParentName="CallOfCthulhuHatMakeableBase">
+  <ThingDef ParentName="HatMakeableBase">
     <defName>ROM_Apparel_CallOfCthulhuNewsboyCap</defName>
     <label>newsboy cap</label>
-    <description>Front-facing flat cap that was commonly used by newspaper delivery boys during the industrial age.</description>
+    <description>A plain cap which gives off an urban look. Improves social impact.</description>
     <graphicData>
       <texPath>Apparel/Display/ROMNewsboyCap</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -113,10 +154,9 @@
     <statBases>
       <WorkToMake>4000</WorkToMake>
       <Mass>0.25</Mass>
-      <ArmorRating_Blunt>0.02</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.019</ArmorRating_Sharp>
-      <Insulation_Heat>4</Insulation_Heat>
-      <Insulation_Cold>-4</Insulation_Cold>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.10</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.40</StuffEffectMultiplierInsulation_Heat>
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.15</SocialImpact>
@@ -127,7 +167,7 @@
       <bodyPartGroups>
         <li>UpperHead</li>
       </bodyPartGroups>
-      <worngraphicPath>Apparel/Hats/NewsboyCap/ROMNewsboyCap</worngraphicPath>
+      <wornGraphicPath>Apparel/Hats/NewsboyCap/ROMNewsboyCap</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -145,7 +185,7 @@
 
 
 
-  <ThingDef ParentName="CallOfCthulhuHatMakeableBase">
+  <ThingDef ParentName="HatMakeableBase">
     <defName>ROM_Apparel_CallOfCthulhuFedora</defName>
     <label>fedora</label>
     <description>Stylish early 20th century headwear.</description>
@@ -161,9 +201,9 @@
     <statBases>
       <WorkToMake>5000</WorkToMake>
       <Mass>0.25</Mass>
-      <ArmorRating_Blunt>0.02</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.02</ArmorRating_Sharp>
-      <Insulation_Heat>8</Insulation_Heat>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.10</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.40</StuffEffectMultiplierInsulation_Heat>
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.15</SocialImpact>
@@ -174,7 +214,7 @@
       <bodyPartGroups>
         <li>UpperHead</li>
       </bodyPartGroups>
-      <worngraphicPath>Apparel/Hats/Fedora/CallOfCthulhu_Fedora</worngraphicPath>
+      <wornGraphicPath>Apparel/Hats/Fedora/CallOfCthulhu_Fedora</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -191,10 +231,10 @@
   </ThingDef>
 
 
-  <ThingDef ParentName="CallOfCthulhuHatMakeableBase">
+  <ThingDef ParentName="HatMakeableBase">
     <defName>ROM_Apparel_CallOfCthulhuBowler</defName>
     <label>bowler hat</label>
-    <description>Stylish early 20th century headwear.</description>
+    <description>A stylish hat which gives off a slightly formal, business style. Improves social impact.</description>
     <graphicData>
       <texPath>Apparel/Display/CallOfCthulhu_Bowler</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -207,9 +247,9 @@
     <statBases>
       <WorkToMake>5000</WorkToMake>
       <Mass>0.25</Mass>
-      <ArmorRating_Blunt>0.04</ArmorRating_Blunt>
-      <ArmorRating_Sharp>0.04</ArmorRating_Sharp>
-      <Insulation_Heat>8</Insulation_Heat>
+      <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.10</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.40</StuffEffectMultiplierInsulation_Heat>
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.15</SocialImpact>
@@ -220,7 +260,7 @@
       <bodyPartGroups>
         <li>UpperHead</li>
       </bodyPartGroups>
-      <worngraphicPath>Apparel/Hats/Bowler/CallOfCthulhu_Bowler</worngraphicPath>
+      <wornGraphicPath>Apparel/Hats/Bowler/CallOfCthulhu_Bowler</wornGraphicPath>
       <layers>
         <li>Overhead</li>
       </layers>
@@ -243,10 +283,9 @@
   </ThingDef>
 
 
-	<ThingDef ParentName="CallOfCthulhuApparelMakeableBase">
+	<ThingDef ParentName="ApparelMakeableBase">
 		<defName>ROM_Apparel_CallOfCthulhutrench_coat</defName>
-		<description>Preferred apparel of detectives everywhere.
-		</description>
+		<description>Preferred apparel of detectives everywhere.</description>
 		<label>trench coat</label>
 		<graphicData>
 			<texPath>Apparel/Display/CallOfCthulhu_TrenchCoat</texPath>
@@ -263,11 +302,10 @@
 		<statBases>
 			<MaxHitPoints>160</MaxHitPoints>
 			<WorkToMake>22000</WorkToMake>
-      <Mass>0.25</Mass>
-			<ArmorRating_Blunt>0.08</ArmorRating_Blunt>
-			<ArmorRating_Sharp>0.08</ArmorRating_Sharp>
-			<Insulation_Cold>-20</Insulation_Cold>
-			<Insulation_Heat>-2</Insulation_Heat>
+			<Mass>0.25</Mass>
+			<StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.75</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.75</StuffEffectMultiplierInsulation_Heat>
 		</statBases>
 		<equippedStatOffsets>
 			<SocialImpact>0.15</SocialImpact>
@@ -281,7 +319,7 @@
 				<li>Shoulders</li>
 				<li>Arms</li>
 			</bodyPartGroups>
-			<worngraphicPath>Apparel/Bodywear_Clothing/TrenchCoat/CallOfCthulhu_TrenchCoat</worngraphicPath>
+			<wornGraphicPath>Apparel/Bodywear_Clothing/TrenchCoat/CallOfCthulhu_TrenchCoat</wornGraphicPath>
 			<layers>
 				<li>Shell</li>
 			</layers>
@@ -307,4 +345,4 @@
 
 
 
-</ThingDefs>
+</Defs>

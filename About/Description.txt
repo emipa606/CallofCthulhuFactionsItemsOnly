@@ -1,0 +1,17 @@
+Rather than adding the factions from the Call of Cthulhu series,
+you have chosen to add simply their fancy apparel and weapons.
+Thus, the 'items only' mod.
+
+	Have fun!
+
+Contributors:
+  drynyn (Writer)
+  SticksNTricks(Artist)
+  Junkyard Joe (Writer)
+  Nackblad (Artist)
+  Erdelf (Coder)
+
+Want to contribute? Get in touch with us in the workshop or Ludeon forums.
+
+Uses Assets From:
+Fashionrimsta (Overalls)

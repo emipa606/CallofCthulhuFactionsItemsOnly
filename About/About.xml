@@ -1,35 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-
 <ModMetaData>
-	<name>Call of Cthulhu - Factions - Items Only</name>
-	<author>Jecrell</author>
-	<targetVersion>0.17.0</targetVersion>
-	<description>
-	V1.17.10
+  <name>Call of Cthulhu - Factions - Items Only</name>
+  <author>Jecrell</author>
+  <targetVersion>1.0.2059</targetVersion>
+  <description>1.20.0.0 (10-23-2018)
 
-	Contributors:
+Rather than adding the factions from the Call of Cthulhu series,
+you have chosen to add simply their fancy apparel and weapons.
+Thus, the 'items only' mod.
+
+	Have fun!
+
+Contributors:
   drynyn (Writer)
-	SticksNTricks(Artist)
-	Junkyard Joe (Writer)
-	Nackblad (Artist)
-	Erdelf (Coder)
+  SticksNTricks(Artist)
+  Junkyard Joe (Writer)
+  Nackblad (Artist)
+  Erdelf (Coder)
 
-	Want to contribute? Get in touch with us in the workshop or Ludeon forums.
+Want to contribute? Get in touch with us in the workshop or Ludeon forums.
 
-	Uses Assets From:
-	Fashionrimsta (Overalls)
+Uses Assets From:
+Fashionrimsta (Overalls)
 
-	While the lingering fear of Cthulhu is most unnerving, you are not alone. The Agency and coastal fishing villages have appeared in the overworld.
+Thank you to my Patrons for supporting me in my efforts. Without you, none of this would be possible.
 
-	The detectives from The Agency dress themselves with proper detective gear including bowler caps, fedoras, shirts with ties, and trench coats.
+These are the most excellent rim dwellers who support me: 
+Maaxar, Shibby Says, TheJagermeister, Cory Bonifay, Kiya Nicoll, Matt Harris, Paul Fenwick, Grendalloffen, Martin K. Bonde, Bentley Alsup, Eric Idema, MasterScootie, GoSu, Josh McCabe, spook, Clifford Campbell, J, CrankyPeanut, E_T, Finwej, Jan Koutsky, Audrin Navarro, Михаил Юрченко, John Kanady, Luis Figueroa, Midgeman, Nate Haug, Nemuri Hime, Richard Paul, SilentWeirdo, Calum, Calhoun Cattell, Keith Thoma, Tim Stillson, Dick Jones, Patrick, Nathan Getman, Populous25, Sharp Spook, Steven James, Marcus Sireanu, Mark, Emily Shaw, Drachken, Zalson, Baron Xot, Nicholas Bateman, Christopher, Justin Andres, Luis Salvatierra, TinyFloatingTurtle, George Chong Chuang Ming, John Boehr, Oliver White, roxxploxx, Robin Hager, Brachiaraidos, That Guy, Toc Anastar, Karol Rybak, Allic, Austin Harbert, Yewty, Evan Hwang, Ryan Brock, Jonathan Holzinger, MC, Alexander, Kevin Reagan, Alex Mederer, Toss Antilles, Chelsea Archambeau, Aron Glasser, Dan Winn, Fredric Sundberg, Sarah Banks, ted stevens
 
-	Citizens from the coastal fishing villages wear occupational attire including: police uniforms with caps, farmer overalls and straw hats, raincoats and slicker hats, and nurse uniforms with caps.
+========================
+Changelog
+========================
+1.20.0.0 (10-23-2018)
+========================
+Initial release for RimWorld 1.0.
 
-	Top hats, newsboy caps, are also now included.
-
-	Recently, a lost platoon from the great war has also arrived due to mysterious circumstances. In their delusional state, they prefer to trade bullets rather than words.
-
-	Finally, a special branch of the Agency used to root out monstrous forces can be seen wearing lighter special forces gear. They are called M.E.R.F. (Mobile Eldritch Response Force), and they come equipped with combat armor and helmets (light and heavy variants).
-
-	Have fun!</description>
+</description>
 </ModMetaData>
