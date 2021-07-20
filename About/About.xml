@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Call of Cthulhu - Factions - Items Only (Continued)</name>
   <packageId>Mlie.CallofCthulhuFactionsItemsOnly</packageId>
@@ -8,6 +8,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -17,91 +18,110 @@
       <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
     </li>
     <li>
-      <packageId>jecrell.jecstools</packageId>
-      <displayName>JecsTools</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2195729899</steamWorkshopUrl>
+      <packageId>CarnySenpai.EnableOversizedWeapons</packageId>
+      <displayName>Enable Oversized Weapons</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2543371889</steamWorkshopUrl>
     </li>
   </modDependencies>
   <loadAfter>
     <li>brrainz.harmony</li>
-    <li>jecrell.jecstools</li>
+    <li>CarnySenpai.EnableOversizedWeapons</li>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>Update of Jecrells mod
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Jecrells mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1091340782
-
-[img]https://i.imgur.com/GYswkZ7.png[/img]
-
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/CallofCthulhuFactionsItemsOnly
 
 - This is an unofficial port
 - This will be removed when/if Jecrell comes back
 - Added support for Combat Extended
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/CallofCthulhuFactionsItemsOnly][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-Adds apparel and weapons from the Call of Cthulhu mod series, without the factions.
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+[h1]Adds apparel and weapons from the Call of Cthulhu mod series, without the factions.[/h1]
 
 While the lingering fear of Cthulhu is most unnerving, you have chosen to not include the fabled factions in your game. So instead, these are simply their equipment -- available to you to do with as you will.
 
 
-Contributors:
-drynyn (Writer), SticksNTricks (Artist), Junkyard Joe (Writer), Nackblad (Artist), Erdelf (Coder)
+	[h1]Contributors:[/h1]
+        drynyn (Writer), SticksNTricks (Artist), Junkyard Joe (Writer), Nackblad (Artist), Erdelf (Coder)
 
-Want to contribute? Get in touch with us in the workshop or Ludeon forums or join our Discord.
-https://discord.gg/AaVFA7V
+	Want to contribute? Get in touch with us in the workshop or Ludeon forums or join our Discord.
+        https://discord.gg/AaVFA7V
 
-Uses Assets From:
-Fashionrimsta (Overalls)
+	Uses Assets From:
+	Fashionrimsta (Overalls)
 
-::::: NOTICE :::::
+[h1]::::: NOTICE :::::
 ::::: THIS MOD NOW REQUIRES JECSTOOLS FOR A17 ::::::
-Download
+Download[/h1]
 http://steamcommunity.com/sharedfiles/filedetails/?id=932008009
 
 V1.17.10
 
-Includes
-::::::::::::::::::::::::::
-Melee Weapons
-::::::::::::::::::::::::::
-Pole Hook
-Wood Axe
-Pitchfork
-Branding Iron
-::::::::::::::::::::::::::
-Ranged Weapons
-::::::::::::::::::::::::::
-Webley Revolver
-Hand-held Harpoon Gun
-Flaregun
-Tommygun
-::::::::::::::::::::::::::
-Apparel
-::::::::::::::::::::::::::
-Overalls
-Straw Hat
-Shirt and tie
-Top Hat
-Newsboy Cap
-Fedora
-Bowler Hat
-Trench Coat
-Rain Coat
-Slicker Hat
-Police Hat
-Police Uniform
-Infantry Helmet (World War I)
-Infantry Uniform (World War I)
-Nurse Cap
-Nurse Uniform
-MERF Light Helmet
-MERF Heavy Helmet
-MERF Body armor
-MERF Jacket
+        [h1]Includes[/h1]
+        ::::::::::::::::::::::::::
+        [h1]Melee Weapons[/h1]
+        ::::::::::::::::::::::::::
+        Pole Hook
+        Wood Axe
+        Pitchfork
+        Branding Iron
+        ::::::::::::::::::::::::::
+        [h1]Ranged Weapons[/h1]
+        ::::::::::::::::::::::::::
+        Webley Revolver
+        Hand-held Harpoon Gun
+        Flaregun
+        Tommygun
+        ::::::::::::::::::::::::::
+        [h1]Apparel[/h1]
+        ::::::::::::::::::::::::::
+        Overalls
+        Straw Hat
+        Shirt and tie
+        Top Hat
+        Newsboy Cap
+        Fedora
+        Bowler Hat
+        Trench Coat
+        Rain Coat
+        Slicker Hat
+        Police Hat
+        Police Uniform
+        Infantry Helmet (World War I)
+        Infantry Uniform (World War I)
+        Nurse Cap
+        Nurse Uniform
+        MERF Light Helmet
+        MERF Heavy Helmet
+        MERF Body armor
+        MERF Jacket
 
-...</description>
+...
+
+[h1]Special thanks to all those that support me on Patreon:[/h1]
+ShotgunFace, Fredric Sundberg, Dan Winn, Toss Antilles, Sarah Banks, Undead Jackel, Michin, Chelsea, Caine Detueur, Yewty Oxman, Jerod Clayton, Arty Kubin, Ashleigh Miller, infinity421, TheDayDude, Jacob Duga, Ryan Brock, Evan Hwang, Moshat, Christopher, Don Butterblume, John Boehr, George Chong Chuang Ming, Oliver White, Helpful Bot, vincent de keijzer, roxxploxx, Legless, Christopher Abel, Karol Rybak, Mathias Broxvall, Mark, Tim Stillson, Lachlan Easton, Nemuri Hime, Sera, Christian Hermansen, NiNe Bottles of Rum, Populous25, Steven James, Marcus Siraenu, Michael Lauder, meatface.
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
