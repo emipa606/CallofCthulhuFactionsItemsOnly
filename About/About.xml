@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Call of Cthulhu - Factions - Items Only (Continued)</name>
   <packageId>Mlie.CallofCthulhuFactionsItemsOnly</packageId>
@@ -28,24 +28,29 @@
     <li>CarnySenpai.EnableOversizedWeapons</li>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Jecrells mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1091340782
 
 - This is an unofficial port
 - This will be removed when/if Jecrell comes back
 - Added support for Combat Extended
+- Replaced Jecs Tools for [url=https://steamcommunity.com/workshop/filedetails/?id=2543371889]Enable Oversized Weapons[/url]. Game version 1.2 and older will still use Jecs but the Mod-Manager will show a warning about it.
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/CallofCthulhuFactionsItemsOnly][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 [h1]Adds apparel and weapons from the Call of Cthulhu mod series, without the factions.[/h1]
 
@@ -113,7 +118,7 @@ V1.17.10
 ShotgunFace, Fredric Sundberg, Dan Winn, Toss Antilles, Sarah Banks, Undead Jackel, Michin, Chelsea, Caine Detueur, Yewty Oxman, Jerod Clayton, Arty Kubin, Ashleigh Miller, infinity421, TheDayDude, Jacob Duga, Ryan Brock, Evan Hwang, Moshat, Christopher, Don Butterblume, John Boehr, George Chong Chuang Ming, Oliver White, Helpful Bot, vincent de keijzer, roxxploxx, Legless, Christopher Abel, Karol Rybak, Mathias Broxvall, Mark, Tim Stillson, Lachlan Easton, Nemuri Hime, Sera, Christian Hermansen, NiNe Bottles of Rum, Populous25, Steven James, Marcus Siraenu, Michael Lauder, meatface.
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -124,4 +129,3 @@ ShotgunFace, Fredric Sundberg, Dan Winn, Toss Antilles, Sarah Banks, Undead Jack
 [/list]
 </description>
 </ModMetaData>
-
