@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: burn -->
+  <ROM_MeleeBurn.label>burn</ROM_MeleeBurn.label>
+  <!-- EN: {0} has been burned to death. -->
+  <ROM_MeleeBurn.deathMessage>{0} has been burned to death.</ROM_MeleeBurn.deathMessage>
+</LanguageData>

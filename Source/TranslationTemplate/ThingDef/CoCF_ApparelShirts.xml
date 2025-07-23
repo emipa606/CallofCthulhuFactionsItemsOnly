@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: plaid shirt -->
+  <ROM_Apparel_CallOfCthulhuPlaidShirt.label>plaid shirt</ROM_Apparel_CallOfCthulhuPlaidShirt.label>
+  <!-- EN: During the 20th century, this piece of apparel became popular attire for laborers. -->
+  <ROM_Apparel_CallOfCthulhuPlaidShirt.description>During the 20th century, this piece of apparel became popular attire for laborers.</ROM_Apparel_CallOfCthulhuPlaidShirt.description>
+  <!-- EN: shirt and tie -->
+  <ROM_Apparel_CallOfCthulhuShirtTie.label>shirt and tie</ROM_Apparel_CallOfCthulhuShirtTie.label>
+  <!-- EN: During the 20th century, this piece of apparel became highly fashionable for conducting business. -->
+  <ROM_Apparel_CallOfCthulhuShirtTie.description>During the 20th century, this piece of apparel became highly fashionable for conducting business.</ROM_Apparel_CallOfCthulhuShirtTie.description>
+</LanguageData>

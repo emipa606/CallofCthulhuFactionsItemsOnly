@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bowler hat -->
+  <ROM_Apparel_CallOfCthulhuBowler.label>bowler hat</ROM_Apparel_CallOfCthulhuBowler.label>
+  <!-- EN: A stylish hat which gives off a slightly formal, business style. Improves social impact. -->
+  <ROM_Apparel_CallOfCthulhuBowler.description>A stylish hat which gives off a slightly formal, business style. Improves social impact.</ROM_Apparel_CallOfCthulhuBowler.description>
+  <!-- EN: fedora -->
+  <ROM_Apparel_CallOfCthulhuFedora.label>fedora</ROM_Apparel_CallOfCthulhuFedora.label>
+  <!-- EN: Stylish early 20th century headwear. -->
+  <ROM_Apparel_CallOfCthulhuFedora.description>Stylish early 20th century headwear.</ROM_Apparel_CallOfCthulhuFedora.description>
+  <!-- EN: newsboy cap -->
+  <ROM_Apparel_CallOfCthulhuNewsboyCap.label>newsboy cap</ROM_Apparel_CallOfCthulhuNewsboyCap.label>
+  <!-- EN: A plain cap which gives off an urban look. Improves social impact. -->
+  <ROM_Apparel_CallOfCthulhuNewsboyCap.description>A plain cap which gives off an urban look. Improves social impact.</ROM_Apparel_CallOfCthulhuNewsboyCap.description>
+  <!-- EN: top hat -->
+  <ROM_Apparel_CallOfCthulhuTopHat.label>top hat</ROM_Apparel_CallOfCthulhuTopHat.label>
+  <!-- EN: An elegant hat which gives the wearer a sophisticated look of importance. Improves social impact. -->
+  <ROM_Apparel_CallOfCthulhuTopHat.description>An elegant hat which gives the wearer a sophisticated look of importance. Improves social impact.</ROM_Apparel_CallOfCthulhuTopHat.description>
+</LanguageData>

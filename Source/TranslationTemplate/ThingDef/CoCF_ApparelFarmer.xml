@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: overalls -->
+  <ROM_Apparel_NF_FSOveralls.label>overalls</ROM_Apparel_NF_FSOveralls.label>
+  <!-- EN: Who needs a belt when you can just wear pants so tall they go up to your shoulders? Not you! You've got overalls! -->
+  <ROM_Apparel_NF_FSOveralls.description>Who needs a belt when you can just wear pants so tall they go up to your shoulders? Not you! You've got overalls!</ROM_Apparel_NF_FSOveralls.description>
+  <!-- EN: straw hat -->
+  <ROM_Apparel_ROM_StrawHat.label>straw hat</ROM_Apparel_ROM_StrawHat.label>
+  <!-- EN: A hat fashioned from straw to shield the user from the sun. -->
+  <ROM_Apparel_ROM_StrawHat.description>A hat fashioned from straw to shield the user from the sun.</ROM_Apparel_ROM_StrawHat.description>
+</LanguageData>

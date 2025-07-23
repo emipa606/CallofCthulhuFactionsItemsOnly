@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: police hat -->
+  <ROM_Apparel1920sPoliceHat.label>police hat</ROM_Apparel1920sPoliceHat.label>
+  <!-- EN: Designates someone as an authority figure. The accuracy of this designation is left to the eye of the beholder. -->
+  <ROM_Apparel1920sPoliceHat.description>Designates someone as an authority figure. The accuracy of this designation is left to the eye of the beholder.</ROM_Apparel1920sPoliceHat.description>
+  <!-- EN: police uniform -->
+  <ROM_Apparel1920sPoliceOutfit.label>police uniform</ROM_Apparel1920sPoliceOutfit.label>
+  <!-- EN: Early 20th century attire suited for local enforcers to use when keeping the peace. -->
+  <ROM_Apparel1920sPoliceOutfit.description>Early 20th century attire suited for local enforcers to use when keeping the peace.</ROM_Apparel1920sPoliceOutfit.description>
+</LanguageData>

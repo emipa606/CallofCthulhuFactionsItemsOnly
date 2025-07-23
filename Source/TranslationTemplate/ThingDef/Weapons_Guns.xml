@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: flare -->
+  <ROM_Bullet_Flare.label>flare</ROM_Bullet_Flare.label>
+  <!-- EN: harpoon bolt -->
+  <ROM_Bullet_Harpoon.label>harpoon bolt</ROM_Bullet_Harpoon.label>
+  <!-- EN: tommy gun bullet -->
+  <ROM_Bullet_TommyGun.label>tommy gun bullet</ROM_Bullet_TommyGun.label>
+  <!-- EN: coastal flare gun -->
+  <ROM_Gun_Flaregun.label>coastal flare gun</ROM_Gun_Flaregun.label>
+  <!-- EN: A flaregun is typically used as a distress signal for sailors at sea. In a life or death situation, a flaregun can be used as a deadly combat weapon. -->
+  <ROM_Gun_Flaregun.description>A flaregun is typically used as a distress signal for sailors at sea. In a life or death situation, a flaregun can be used as a deadly combat weapon.</ROM_Gun_Flaregun.description>
+  <!-- EN: grip -->
+  <ROM_Gun_Flaregun.tools.grip.label>grip</ROM_Gun_Flaregun.tools.grip.label>
+  <!-- EN: barrel -->
+  <ROM_Gun_Flaregun.tools.barrel.label>barrel</ROM_Gun_Flaregun.tools.barrel.label>
+  <!-- EN: coastal flare gun -->
+  <ROM_Gun_Flaregun.verbs.Verb_Shoot.label>coastal flare gun</ROM_Gun_Flaregun.verbs.Verb_Shoot.label>
+  <!-- EN: hand-held harpoon gun -->
+  <ROM_Gun_Harpoon.label>hand-held harpoon gun</ROM_Gun_Harpoon.label>
+  <!-- EN: A special weapon devised by coastal fishing villages at the turn of the 20th century. Packs a punch and is rather lethal. -->
+  <ROM_Gun_Harpoon.description>A special weapon devised by coastal fishing villages at the turn of the 20th century. Packs a punch and is rather lethal.</ROM_Gun_Harpoon.description>
+  <!-- EN: grip -->
+  <ROM_Gun_Harpoon.tools.grip.label>grip</ROM_Gun_Harpoon.tools.grip.label>
+  <!-- EN: barrel -->
+  <ROM_Gun_Harpoon.tools.barrel.label>barrel</ROM_Gun_Harpoon.tools.barrel.label>
+  <!-- EN: head -->
+  <ROM_Gun_Harpoon.tools.head.label>head</ROM_Gun_Harpoon.tools.head.label>
+  <!-- EN: hand-held harpoon gun -->
+  <ROM_Gun_Harpoon.verbs.Verb_Shoot.label>hand-held harpoon gun</ROM_Gun_Harpoon.verbs.Verb_Shoot.label>
+  <!-- EN: old-fashioned rifle -->
+  <ROM_Gun_LPRifle_COC.label>old-fashioned rifle</ROM_Gun_LPRifle_COC.label>
+  <!-- EN: Ancient pattern bolt-action rifle. Good range, good power, low rate of fire. -->
+  <ROM_Gun_LPRifle_COC.description>Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.</ROM_Gun_LPRifle_COC.description>
+  <!-- EN: stock -->
+  <ROM_Gun_LPRifle_COC.tools.stock.label>stock</ROM_Gun_LPRifle_COC.tools.stock.label>
+  <!-- EN: barrel -->
+  <ROM_Gun_LPRifle_COC.tools.barrel.label>barrel</ROM_Gun_LPRifle_COC.tools.barrel.label>
+  <!-- EN: old-fashioned rifle -->
+  <ROM_Gun_LPRifle_COC.verbs.Verb_Shoot.label>old-fashioned rifle</ROM_Gun_LPRifle_COC.verbs.Verb_Shoot.label>
+  <!-- EN: farmer's shotgun -->
+  <ROM_Gun_PumpShotgun_COC.label>farmer's shotgun</ROM_Gun_PumpShotgun_COC.label>
+  <!-- EN: Ancient design. Deadly, but short range. -->
+  <ROM_Gun_PumpShotgun_COC.description>Ancient design. Deadly, but short range.</ROM_Gun_PumpShotgun_COC.description>
+  <!-- EN: stock -->
+  <ROM_Gun_PumpShotgun_COC.tools.stock.label>stock</ROM_Gun_PumpShotgun_COC.tools.stock.label>
+  <!-- EN: barrel -->
+  <ROM_Gun_PumpShotgun_COC.tools.barrel.label>barrel</ROM_Gun_PumpShotgun_COC.tools.barrel.label>
+  <!-- EN: farmer's shotgun -->
+  <ROM_Gun_PumpShotgun_COC.verbs.Verb_Shoot.label>farmer's shotgun</ROM_Gun_PumpShotgun_COC.verbs.Verb_Shoot.label>
+  <!-- EN: webley revolver -->
+  <ROM_Gun_Revolver.label>webley revolver</ROM_Gun_Revolver.label>
+  <!-- EN: Military and police model revolving gun with six .38 caliber bullet chambers. Fires six shots before reloading. -->
+  <ROM_Gun_Revolver.description>Military and police model revolving gun with six .38 caliber bullet chambers. Fires six shots before reloading.</ROM_Gun_Revolver.description>
+  <!-- EN: grip -->
+  <ROM_Gun_Revolver.tools.grip.label>grip</ROM_Gun_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <ROM_Gun_Revolver.tools.barrel.label>barrel</ROM_Gun_Revolver.tools.barrel.label>
+  <!-- EN: webley revolver -->
+  <ROM_Gun_Revolver.verbs.Verb_Shoot.label>webley revolver</ROM_Gun_Revolver.verbs.Verb_Shoot.label>
+  <!-- EN: hunting rifle -->
+  <ROM_Gun_SurvivalRifle_COC.label>hunting rifle</ROM_Gun_SurvivalRifle_COC.label>
+  <!-- EN: Ancient pattern bolt-action rifle. Good range, good power, low rate of fire. -->
+  <ROM_Gun_SurvivalRifle_COC.description>Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.</ROM_Gun_SurvivalRifle_COC.description>
+  <!-- EN: stock -->
+  <ROM_Gun_SurvivalRifle_COC.tools.stock.label>stock</ROM_Gun_SurvivalRifle_COC.tools.stock.label>
+  <!-- EN: barrel -->
+  <ROM_Gun_SurvivalRifle_COC.tools.barrel.label>barrel</ROM_Gun_SurvivalRifle_COC.tools.barrel.label>
+  <!-- EN: hunting rifle -->
+  <ROM_Gun_SurvivalRifle_COC.verbs.Verb_Shoot.label>hunting rifle</ROM_Gun_SurvivalRifle_COC.verbs.Verb_Shoot.label>
+  <!-- EN: tommy gun -->
+  <ROM_Gun_TommyGun.label>tommy gun</ROM_Gun_TommyGun.label>
+  <!-- EN: A classic submachine gun also known as the Chicago Typewriter. Medium range, decent power, high rate of fire. Very quick to aim and fire. -->
+  <ROM_Gun_TommyGun.description>A classic submachine gun also known as the Chicago Typewriter. Medium range, decent power, high rate of fire. Very quick to aim and fire.</ROM_Gun_TommyGun.description>
+  <!-- EN: grip -->
+  <ROM_Gun_TommyGun.tools.grip.label>grip</ROM_Gun_TommyGun.tools.grip.label>
+  <!-- EN: barrel -->
+  <ROM_Gun_TommyGun.tools.barrel.label>barrel</ROM_Gun_TommyGun.tools.barrel.label>
+  <!-- EN: tommy gun -->
+  <ROM_Gun_TommyGun.verbs.Verb_Shoot.label>tommy gun</ROM_Gun_TommyGun.verbs.Verb_Shoot.label>
+</LanguageData>

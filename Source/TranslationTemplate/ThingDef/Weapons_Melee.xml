@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: hot branding iron -->
+  <ROM_BrandingIron.label>hot branding iron</ROM_BrandingIron.label>
+  <!-- EN: A burning hot tool commonly used to brand livestock with prescribed insignias. -->
+  <ROM_BrandingIron.description>A burning hot tool commonly used to brand livestock with prescribed insignias.</ROM_BrandingIron.description>
+  <!-- EN: handle -->
+  <ROM_BrandingIron.tools.handle.label>handle</ROM_BrandingIron.tools.handle.label>
+  <!-- EN: tip -->
+  <ROM_BrandingIron.tools.tip.label>tip</ROM_BrandingIron.tools.tip.label>
+  <!-- EN: pitchfork -->
+  <ROM_Pitchfork.label>pitchfork</ROM_Pitchfork.label>
+  <!-- EN: Used by farmers to help manage hay. -->
+  <ROM_Pitchfork.description>Used by farmers to help manage hay.</ROM_Pitchfork.description>
+  <!-- EN: handle -->
+  <ROM_Pitchfork.tools.handle.label>handle</ROM_Pitchfork.tools.handle.label>
+  <!-- EN: teeth -->
+  <ROM_Pitchfork.tools.teeth.label>teeth</ROM_Pitchfork.tools.teeth.label>
+  <!-- EN: polehook -->
+  <ROM_PoleHook.label>polehook</ROM_PoleHook.label>
+  <!-- EN: A meat hook fixed to the end of a pole. A terrifying weapon to behold. -->
+  <ROM_PoleHook.description>A meat hook fixed to the end of a pole. A terrifying weapon to behold.</ROM_PoleHook.description>
+  <!-- EN: shaft -->
+  <ROM_PoleHook.tools.shaft.label>shaft</ROM_PoleHook.tools.shaft.label>
+  <!-- EN: hook -->
+  <ROM_PoleHook.tools.hook.label>hook</ROM_PoleHook.tools.hook.label>
+  <!-- EN: wood axe -->
+  <ROM_WoodAxe.label>wood axe</ROM_WoodAxe.label>
+  <!-- EN: An axe used by lumberjacks to quickly turn trees into valuable resources. -->
+  <ROM_WoodAxe.description>An axe used by lumberjacks to quickly turn trees into valuable resources.</ROM_WoodAxe.description>
+  <!-- EN: handle -->
+  <ROM_WoodAxe.tools.handle.label>handle</ROM_WoodAxe.tools.handle.label>
+  <!-- EN: axe head -->
+  <ROM_WoodAxe.tools.axe_head.label>axe head</ROM_WoodAxe.tools.axe_head.label>
+</LanguageData>

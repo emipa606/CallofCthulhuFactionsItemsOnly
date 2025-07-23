@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: slicker hat -->
+  <ROM_Apparel_ROM_SlickerHat.label>slicker hat</ROM_Apparel_ROM_SlickerHat.label>
+  <!-- EN: A yellow hat designed to repel water, a favorite of anglers and retired accountants who enjoy fishing. -->
+  <ROM_Apparel_ROM_SlickerHat.description>A yellow hat designed to repel water, a favorite of anglers and retired accountants who enjoy fishing.</ROM_Apparel_ROM_SlickerHat.description>
+  <!-- EN: rain coat -->
+  <ROM_ApparelRaincoat.label>rain coat</ROM_ApparelRaincoat.label>
+  <!-- EN: Water resistant coat often used by fishermen. -->
+  <ROM_ApparelRaincoat.description>Water resistant coat often used by fishermen.</ROM_ApparelRaincoat.description>
+</LanguageData>

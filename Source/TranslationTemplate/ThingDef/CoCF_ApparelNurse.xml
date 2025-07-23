@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: nurse cap -->
+  <ROM_Apparel_NurseCap.label>nurse cap</ROM_Apparel_NurseCap.label>
+  <!-- EN: An ancient nurse cap from the first Great War. While typically worn by female nurses historically, residents of the rim both male and female have found it most fashionable. -->
+  <ROM_Apparel_NurseCap.description>An ancient nurse cap from the first Great War. While typically worn by female nurses historically, residents of the rim both male and female have found it most fashionable.</ROM_Apparel_NurseCap.description>
+  <!-- EN: nurse uniform -->
+  <ROM_Apparel_WW1NurseUniform.label>nurse uniform</ROM_Apparel_WW1NurseUniform.label>
+  <!-- EN: An ancient nurse uniform from the first Great War. While typically worn by female nurses historically, residents of the rim both male and female have found it most fashionable. -->
+  <ROM_Apparel_WW1NurseUniform.description>An ancient nurse uniform from the first Great War. While typically worn by female nurses historically, residents of the rim both male and female have found it most fashionable.</ROM_Apparel_WW1NurseUniform.description>
+</LanguageData>

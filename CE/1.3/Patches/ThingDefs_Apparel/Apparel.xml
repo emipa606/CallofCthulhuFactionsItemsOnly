@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="ROM_ApparelRaincoat" or defName="ROM_Apparel_CallOfCthulhutrench_coat" or defName="ROM_Apparel_NF_FSOveralls" or defName="ROM_Apparel_WW1NurseUniform" or defName="ROM_Apparel_DetectiveSlacks" or defName="ROM_Apparel1920sPoliceOutfit"]/statBases/StuffEffectMultiplierArmor</xpath>

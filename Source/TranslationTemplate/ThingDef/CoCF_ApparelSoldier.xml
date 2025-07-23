@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: infantry helmet (World War I) -->
+  <ROM_ApparelWWIHelmet.label>infantry helmet (World War I)</ROM_ApparelWWIHelmet.label>
+  <!-- EN: To avoid coming home from the front lines in seperate bags, be sure to wear this simplistic protective headwear. -->
+  <ROM_ApparelWWIHelmet.description>To avoid coming home from the front lines in seperate bags, be sure to wear this simplistic protective headwear.</ROM_ApparelWWIHelmet.description>
+  <!-- EN: infantry uniform (World War I) -->
+  <ROM_ApparelWWIUniform.label>infantry uniform (World War I)</ROM_ApparelWWIUniform.label>
+  <!-- EN: This apparel made it easier to distinguish friendlies on the battlefield. However, it provided little in the way of actual body armor. -->
+  <ROM_ApparelWWIUniform.description>This apparel made it easier to distinguish friendlies on the battlefield. However, it provided little in the way of actual body armor.</ROM_ApparelWWIUniform.description>
+</LanguageData>

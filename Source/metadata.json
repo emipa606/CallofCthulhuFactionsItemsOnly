@@ -2,5 +2,17 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 66272,
+  "CodeBaseSize": 76,
+  "LastXmlCleaning": "2025-07-23T22:13:15.4837044+02:00",
+  "SocialImageSet": true,
+  "SearchTags": [
+    " apparel",
+    " equipment"
+  ]
 }

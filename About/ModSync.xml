@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>82033b10-e757-4ce2-8dce-8b84714c70a5</ID>
   <ModName>Call of Cthulhu - Factions - Items Only (Continued)</ModName>
-  <Version>1.5.0</Version>
+  <Version>1.6.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,3 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+
